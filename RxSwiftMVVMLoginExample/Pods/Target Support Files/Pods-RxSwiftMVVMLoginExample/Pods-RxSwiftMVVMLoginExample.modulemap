@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftMVVMLoginExample {
+  umbrella header "Pods-RxSwiftMVVMLoginExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
